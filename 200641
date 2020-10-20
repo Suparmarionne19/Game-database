@@ -1,0 +1,16 @@
+[ {
+  "player1" : {
+    "level" : 100,
+    "player_name" : "elliott",
+    "skils" : [ "flame charge", "fire fang", "ember" ],
+    "status" : "healthy",
+    "type" : "air"
+  },
+  "player2" : {
+    "level" : 100,
+    "player_name" : "jackson",
+    "skils" : [ "fly", "guts", "whirlwind" ],
+    "status " : "healthy",
+    "type" : "air"
+  }
+} ]
